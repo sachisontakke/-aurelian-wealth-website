@@ -24,7 +24,7 @@ npm run dev
 Prototype URL after the dev server starts:
 
 ```text
-http://127.0.0.1:5173/
+https://aurelian-wealth-website.vercel.app/
 ```
 
 ## Capture Screenshots
