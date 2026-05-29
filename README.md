@@ -38,6 +38,3 @@ npm run screenshots
 - `screenshots/home-desktop.png`
 - `screenshots/home-mobile.png`
 
-## Submission Notes
-
-The PDF brief was analyzed and mapped directly into the site structure: five mandatory pages, optional bonus pages, required homepage sections, responsive navigation, a lead generation form, SEO metadata, and a modern finance-focused design system.
