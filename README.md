@@ -23,7 +23,9 @@ npm run dev
 
 ## Live Prototype
 
-[Open Live Website](https://aurelian-wealth-website.vercel.app/p)
+## Live Prototype
+
+[Open Live Website](https://aurelian-wealth-website.vercel.app/)
 
 ## Capture Screenshots
 
