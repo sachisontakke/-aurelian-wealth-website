@@ -21,11 +21,9 @@ npm install
 npm run dev
 ```
 
-Prototype URL after the dev server starts:
+## Live Prototype
 
-```text
-https://aurelian-wealth-website.vercel.app/
-```
+[Open Live Website](https://aurelian-wealth-website.vercel.app/p)
 
 ## Capture Screenshots
 
@@ -33,8 +31,13 @@ https://aurelian-wealth-website.vercel.app/
 npm run screenshots
 ```
 
+
+
 ## Screenshots
 
-- `screenshots/home-desktop.png`
-- `screenshots/home-mobile.png`
+### Desktop
+![Desktop Screenshot](screenshots/home-desktop.png)
+
+### Mobile
+![Mobile Screenshot](screenshots/home-mobile.png)
 
